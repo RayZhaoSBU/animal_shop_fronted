@@ -1,0 +1,29 @@
+
+
+.main{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  top: 120px;
+  .sideBar{
+    top: 0;
+    display: flex;
+    justify-content:center;
+    .title{
+      font-size: 40px;
+    }
+    .full-width{
+      width: 100%;
+    }
+  }
+
+  .infoBlock{
+
+  }
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

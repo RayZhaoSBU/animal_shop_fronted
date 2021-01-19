@@ -1,0 +1,23 @@
+.info{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  .info-name{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    .info-name-field{
+      width: 100%;
+    }
+  }
+
+  .info-text-field{
+    width: 99.25%;
+  }
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+}

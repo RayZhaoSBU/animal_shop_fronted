@@ -1,0 +1,39 @@
+$chewy-blue: #128ced;
+
+.accountSetting{
+  display: flex;
+  justify-content: flex-start;
+  .accountSetting-title{
+    color: $chewy-blue;
+  }
+  .accountSetting-first{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    color: $chewy-blue;
+    margin-bottom: 20px;
+  }
+
+  .accountSetting-second{
+    margin-bottom: 20px;
+    //border-bottom: 1px solid black;
+    .btn{
+      //display: flex;
+      justify-content: flex-end;
+      .btn-btn{
+        //background-color: black;
+        color: white;
+        height: 50px;
+      }
+    }
+  }
+
+
+  .accountSetting-third{
+    margin-bottom: 20px;
+
+  }
+}
+
+.field{
+  width: 100%;
+}

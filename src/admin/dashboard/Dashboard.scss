@@ -1,0 +1,17 @@
+
+
+.dashboard{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  .search{
+    display: flex;
+    justify-content: center;
+    .input{
+      width: 100%;
+    }
+  }
+
+}

@@ -1,0 +1,19 @@
+//#128ced
+.btn-row{
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+
+  .ship-btn{
+    background-color: teal;
+    color: white;
+    margin: 10px;
+  }
+
+  .shipped-btn{
+    background-color: teal;
+    color: white;
+    margin: 10px;
+  }
+
+}

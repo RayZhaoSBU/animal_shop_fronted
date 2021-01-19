@@ -1,0 +1,56 @@
+
+.payment{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  top: 120px;
+  overflow: hidden;
+  .payment-info{
+
+  }
+  .payment-summary{
+
+  }
+
+
+
+
+
+  .summary{
+
+    .summary-subtotal{
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+    }
+
+    .summary-name{
+      width: 80%;
+      font-size: 20px;
+    }
+
+    .summary-price{
+      width: 20%;
+      font-size: 20px;
+    }
+
+    .btn-line{
+      display: flex;
+      justify-content: center;
+      .check-out-btn{
+        background-color: Teal;
+        color: white;
+        width: 80%;
+        height: 50px;
+        font-size: 25px;
+      }
+    }
+
+  }
+
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+}

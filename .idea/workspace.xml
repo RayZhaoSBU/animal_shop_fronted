@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ee6a5fa-70d0-42e6-a096-4ca5e7dbb96f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1j5ipxVoRRR4nSo4tVsK9UgT0dX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../animal-shop-web - Copy" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\IntelliJ IDEA 2019.3.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rayji\Documents\Training\animal-shop-web" />
+      <recent name="C:\Users\rayji\Documents\Training\animal-shop-web\src" />
+      <recent name="C:\Users\rayji\Documents\Training\animal-shop-web\src\actions" />
+      <recent name="C:\Users\rayji\Documents\Training\animal-shop-web\src\reducers" />
+      <recent name="C:\Users\rayji\Documents\Training\animal-shop-web\src\login" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ee6a5fa-70d0-42e6-a096-4ca5e7dbb96f" name="Default Changelist" comment="" />
+      <created>1603100539025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603100539025</updated>
+      <workItem from="1603100540507" duration="708000" />
+      <workItem from="1603112756435" duration="6329000" />
+      <workItem from="1603201487403" duration="603000" />
+      <workItem from="1603288854176" duration="628000" />
+      <workItem from="1604046765872" duration="8789000" />
+      <workItem from="1604319336305" duration="47422000" />
+      <workItem from="1604864935784" duration="22781000" />
+      <workItem from="1605030165827" duration="23374000" />
+      <workItem from="1605206929968" duration="7663000" />
+      <workItem from="1605283847728" duration="668000" />
+      <workItem from="1605573271403" duration="340000" />
+      <workItem from="1605792586253" duration="2124000" />
+      <workItem from="1606306518273" duration="336000" />
+      <workItem from="1606309175849" duration="792000" />
+      <workItem from="1606321394344" duration="41000" />
+      <workItem from="1607297094873" duration="790000" />
+      <workItem from="1607298010972" duration="661000" />
+      <workItem from="1608654443328" duration="1005000" />
+      <workItem from="1609986180271" duration="601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1180" y="354" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603138568927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1180" y="354" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603138568927" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1604491453074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604491453074" />
+    <state x="1120" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1608654442389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1120" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608654442389" />
+    <state x="3040" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604046771454" />
+    <state x="771" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604327170880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604327170880" />
+    <state x="667" y="276" width="710" height="546" key="find.popup" timestamp="1606306544628">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="276" width="710" height="546" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606306544628" />
+    <state x="342" y="247" key="new project wizard" timestamp="1608654860970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="247" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608654860970" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1604885564233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604885564233" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605204909605">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605204909605" />
+  </component>
+</project>

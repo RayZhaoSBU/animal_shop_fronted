@@ -1,0 +1,56 @@
+$chewy-blue: #128ced;
+
+.login{
+  display: flex;
+  justify-content: center;
+  min-width: 1200px;
+  .title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: $chewy-blue;
+    color: white;
+
+    .firstTitle{
+      background-color: $chewy-blue;
+      color: white;
+      border-bottom: 1px solid aliceblue;
+    }
+    .subtitle{
+      background-color: $chewy-blue;
+      color: white;
+    }
+
+  }
+
+  .dialogBody{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    .inputLine{
+      width: 100%;
+      .textField{
+        width: 100%;
+      }
+      .forgot-password{
+        display: flex;
+        justify-content: flex-end;
+      }
+    }
+  }
+
+  .btnContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+
+}
+
+.center{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}

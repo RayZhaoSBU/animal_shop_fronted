@@ -1,0 +1,112 @@
+$chewy-blue: #128ced;
+.main{
+  display: flex;
+  justify-content: space-around;
+  //.showImg{
+  //  display: flex;
+  //  justify-content: flex-end;
+  //  position: relative;
+    .product-wrapper {
+      position: relative;
+      //height: 100%;
+      overflow: hidden;
+      text-align: center;
+      vertical-align: middle;
+      width: 500px;
+      height: 580px;
+      border-radius: 10px;
+      transition: box-shadow .4s;
+      &:hover {
+        box-shadow: 0 5px 5px -3px rgba(0,0,0,.2), 0 8px 10px 1px rgba(0,0,0,.14), 0 3px 14px 2px rgba(0,0,0,.12);
+      }
+      .carousel-box {
+        position: absolute;
+        top: 50%; left: 50%;
+        transform: translate(-50%,-50%);
+      }
+      .product-detail-image {
+        max-width: 100%;
+        max-height: 500px;
+
+      }
+  }
+  .showInfo{
+    position: relative;
+    //top:120px;
+    justify-content: center;
+
+    .showSmall{
+      display: flex;
+      justify-content: flex-start;
+      position: relative;
+      flex-wrap: wrap;
+      width: 100%;
+    }
+    .small-wrapper {
+      position: relative;
+      height: 100%;
+      border-radius: 10px!important;
+      transition: box-shadow .4s;
+      &:hover {
+        box-shadow: 0 5px 5px -3px rgba(0,0,0,.2), 0 8px 10px 1px rgba(0,0,0,.14), 0 3px 14px 2px rgba(0,0,0,.12);
+      }
+    }
+    .small-image {
+      max-width: 100%;
+      border-radius: 10px;
+    }
+
+    .size-flow{
+      display: flex;
+      justify-content: flex-start;
+      flex-wrap: wrap;
+    }
+
+  }
+
+
+  .addtocart{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+
+
+  .reviews{
+    display: flex;
+    justify-content: center;
+    .review-shower{
+      display: flex;
+      justify-content: center;
+      border: 1px solid black;
+      border-radius: 15px;
+      font-family: "Times New Roman", Times, serif;
+      font-size: 25px;
+      margin-top: 20px;
+    }
+    .add-review-editor{
+      display: flex;
+      margin-top: 20px;
+      justify-content: center;
+      border: 1px solid black;
+      border-radius: 15px;
+      .review-input{
+        width: 100%;
+      }
+      .review-submit{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+      }
+      .review-star {
+        display: flex;
+        justify-content: center;
+        margin-top: 10px;
+      }
+    }
+  }
+
+
+
+
+}
